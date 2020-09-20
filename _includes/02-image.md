@@ -1,2 +1,2 @@
-![Picture of Richard Henning](/images/Richard.PNG)
+![Picture of Richard Henning](/Richard.PNG)
 `![Alt Text](url)`
